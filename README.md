@@ -18,5 +18,8 @@ are met, then the password will be `OK`. Otherwise, the password will be `WEAK`.
 ## limitations
 
 This tool is for educational use only and should not be used for securing sensitive information.
+
+## responsible use
+
 The password evaluations are not meant to be indicative of actual password strength.
 As such, this program should not be used in any production level software.
