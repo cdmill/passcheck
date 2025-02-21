@@ -6,7 +6,7 @@ Run the following commands. Replace `...` with your password. Note, keep the quo
 command.
 
 ```bash
-$ git clone ...
+$ git clone https://github.com/cdmill/passcheck.git passcheck
 $ cd passcheck
 $ ./passcheck.py '...'
 ```
